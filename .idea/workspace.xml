@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a317135-ba4b-4271-acc7-e1025b0bb97e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/models/dep/vi-dep.xz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/ner/vi-500brownclusters.xz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/ner/vi-ner.xz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/ner/vi-pretrainedembeddings.xz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/postagger/vi-tagger" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/wordsegmenter/vi-vocab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/wordsegmenter/wordsegmenter.rdr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/corenlp/ner/NerRecognizer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/corenlp/parser/DependencyParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/corenlp/postagger/PosTagger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/corenlp/tokenizer/StringUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/corenlp/tokenizer/Tokenizer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/corenlp/wordsegmenter/FWObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/corenlp/wordsegmenter/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/corenlp/wordsegmenter/Utils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/corenlp/wordsegmenter/Vocabulary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/corenlp/wordsegmenter/WordSegmenter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/corenlp/wordsegmenter/WordTag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/pipeline/Annotation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/pipeline/LexicalInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/pipeline/Sentence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/pipeline/Utils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/pipeline/VnCoreNLP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/pipeline/Word.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/VnCoreNLPExample.java" beforeDir="false" />
-    </list>
+    <list default="true" id="1a317135-ba4b-4271-acc7-e1025b0bb97e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +128,7 @@
       <workItem from="1722826420547" duration="8796000" />
       <workItem from="1722836085304" duration="100000" />
       <workItem from="1722837490634" duration="9177000" />
-      <workItem from="1723024690018" duration="4179000" />
+      <workItem from="1723024690018" duration="4619000" />
     </task>
     <servers />
   </component>
